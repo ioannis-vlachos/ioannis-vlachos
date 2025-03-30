@@ -1,51 +1,68 @@
 # 👋 Hi there, I’m Yianni
 
 🎓 Bachelor of Commerce (Behavioural Commerce) & Bachelor of Finance – Monash University  
-📊 Interested in Quant Finance, Derivative Pricing, Behavioural Economics, and Market Microstructure
+📊 Passionate about Quantitative Finance, Derivative Pricing, Behavioural Economics, and Market Microstructure
 
-### 🔧 Tech & Tools
-Python | MATLAB | Excel VBA
-
-### 📌 Featured Work
-Coming soon – watch this space for:
-- 📈 Quantitative factor models in Python
-- 🧠 Behavioural finance experiments
-- 🗃️ Data analysis projects with real financial datasets
-
-🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/iivlachos/])
-
-## 📌 Featured Work
-
-🚀 Coming soon – watch this space for projects focused on:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=iivlachos&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-### 📈 Quantitative Finance & Asset Pricing
-- **Multi-Factor Asset Pricing Models in Python**  
-  Implementing Fama-French 3/5-factor models, Carhart 4-factor model, and custom factors using ASX-listed equities. Includes regression analysis, risk premia estimation, and portfolio formation.
+### 🔧 Tech Stack
 
-- **Backtesting Investment Strategies with Risk Metrics**  
-  Systematic trading strategy backtests with performance evaluation using Sharpe ratio, Sortino ratio, Jensen’s Alpha, and Value-at-Risk.
+#### ✅ Languages I Know
 
-- **Yield Curve Construction & Term Structure Modeling**  
-  Nelson-Siegel-Svensson yield curve models calibrated using RBA bond data, with curve dynamics and interest rate risk visualisations.
+<p align="left">
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/python.svg" alt="Python" title="Python" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/matlab.svg" alt="MATLAB" title="MATLAB" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/vba.svg" alt="Excel VBA" title="Excel VBA" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/visualbasic.svg" alt="Visual Basic" title="Visual Basic" width="40" height="40"/>
+</p>
+
+#### 🚧 Currently Learning
+
+<p align="left">
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/cplusplus.svg" alt="C++" title="C++" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/r.svg" alt="R" title="R" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/sql.svg" alt="SQL" title="SQL" width="40" height="40"/>
+</p>
+
+---
+
+### 💻 Tools & Environments
+
+<p align="left">
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/latex.svg" alt="LaTeX" title="LaTeX" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/jupyter.svg" alt="Jupyter" title="Jupyter Notebook" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/emacs.svg" alt="Emacs" title="Emacs" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/rstudio.svg" alt="RStudio" title="RStudio" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/vscode.svg" alt="VSCode" title="Visual Studio Code" width="40" height="40"/>
+</p>
 
 ---
 
-### 🧠 Behavioural & Experimental Finance
-- **Prospect Theory Simulator**  
-  A Python-based tool visualising decision weights and value functions from Tversky & Kahneman’s Prospect Theory, with user-adjustable parameters.
+### 📌 Featured Work  
+🚀 *Coming soon – watch this space for:*
 
-- **Investor Sentiment vs Market Volatility**  
-  Natural language processing (NLP) applied to Reddit/Twitter/AFR headlines to generate sentiment indices and assess correlation with ASX market movements.
-
----
-
-### 📊 Data Analytics & Machine Learning
-- **Credit Risk Modelling with Machine Learning**  
-  Classification models (logistic regression, random forest, XGBoost) trained on open banking datasets to predict default risk.
-
-- **Time Series Forecasting of ASX & Commodities**  
-  Forecasting ASX 200 index and commodity prices using ARIMA, Facebook Prophet, and LSTM neural networks.
+- 📈 Quantitative factor models  
+- 🧠 Behavioural finance experiments  
+- 🗃️ Data analysis projects using real financial datasets
 
 ---
+
+### 🔗 Connect with Me  
+
+<a href="https://www.linkedin.com/in/iivlachos/">
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/socials/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
+</a>
