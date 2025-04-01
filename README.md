@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Yianni
 
 🎓 Bachelor of Commerce (Behavioural Commerce) & Bachelor of Finance – Monash University  
-📊 Passionate about Quantitative Finance, Derivative Pricing, Behavioural Economics, and Market Microstructure
+📊 Passionate about quantitative finance, behavioural economics, derivative valuation, financial engineering, and market microstructure
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=iivlachos&style=flat-square" alt="Profile Views" />
