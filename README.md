@@ -10,9 +10,9 @@
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
-#### ✅ Languages I Know
+#### Languages I Know
 
 <p align="left">
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/python.svg" alt="Python" title="Python" width="40" height="40"/>
@@ -24,7 +24,7 @@
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/visualbasic.svg" alt="Visual Basic" title="Visual Basic" width="40" height="40"/>
 </p>
 
-#### 🚧 Currently Learning
+#### Currently Learning
 
 <p align="left">
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/cplusplus.svg" alt="C++" title="C++" width="40" height="40"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### 💻 Tools & Environments
+### Tools & Environments
 
 <p align="left">
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/latex.svg" alt="LaTeX" title="LaTeX" width="40" height="40"/>
@@ -52,16 +52,16 @@
 
 ---
 
-### 📌 Featured Work  
+### Featured Work  
 🚀 *Coming soon – watch this space for:*
 
-- 📈 Quantitative factor models  
-- 🧠 Behavioural finance experiments  
-- 🗃️ Data analysis projects using real financial datasets
+- Quantitative factor models  
+- Behavioural finance experiments  
+- 🗃Data analysis projects using real financial datasets
 
 ---
 
-### 🔗 Connect with Me  
+### Connect with Me  
 
 <a href="https://www.linkedin.com/in/iivlachos/">
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/socials/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
