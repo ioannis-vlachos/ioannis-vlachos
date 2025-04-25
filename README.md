@@ -57,7 +57,7 @@
 
 - Quantitative factor models  
 - Behavioural finance experiments  
-- 🗃Data analysis projects using real financial datasets
+- Data analysis projects using real financial datasets
 
 ---
 
