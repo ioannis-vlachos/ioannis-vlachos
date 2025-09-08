@@ -53,11 +53,7 @@
 ---
 
 ### Featured Work  
-🚀 *Coming soon – watch this space for:*
-
-- Quantitative factor models  
-- Behavioural finance experiments  
-- Data analysis projects using real financial datasets
+🚀 *Coming soon*
 
 ---
 
