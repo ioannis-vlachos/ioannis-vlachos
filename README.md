@@ -1,7 +1,5 @@
 # Hello!
 
----
-
 ### Tech Stack
 
 #### Languages I Know
