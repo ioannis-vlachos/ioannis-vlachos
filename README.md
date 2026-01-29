@@ -1,6 +1,6 @@
-# Hello!
+# Hello // I am Yianni
 
-I am Yianni.
+Passionate about quantitative finance, behavioural economics, derivative valuation, financial engineering, and market microstructure
 
 ---
 
