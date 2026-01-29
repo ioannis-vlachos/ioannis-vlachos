@@ -1,5 +1,9 @@
 # Hello!
 
+I am Yianni.
+
+---
+
 ### Tech Stack
 
 #### Languages I Know
