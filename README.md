@@ -46,8 +46,9 @@ Passionate about quantitative finance, behavioural economics, derivative valuati
 
 ---
 
-### Featured Work  
-🚀 *Coming soon*
+### Featured Projects  
+
+*Coming soon*
 
 ---
 
