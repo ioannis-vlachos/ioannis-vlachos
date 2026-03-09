@@ -34,6 +34,7 @@ Passionate about quantitative finance, behavioural economics, derivatives, and f
 
 <p align="left">
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/vscode.svg" alt="VSCode" title="Visual Studio Code" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/rstudio.svg" alt="RStudio" title="RStudio" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/stata.svg" alt="Stata" title="Stata" width="40" height="40"/>
