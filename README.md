@@ -1,6 +1,6 @@
 # Hello // I am Yianni
 
-Passionate about quantitative finance, behavioural economics, derivative valuation, financial engineering, and market microstructure
+Passionate about quantitative finance, behavioural economics, derivatives, and financial engineering.
 
 ---
 
@@ -15,17 +15,17 @@ Passionate about quantitative finance, behavioural economics, derivative valuati
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/vba.svg" alt="Excel VBA" title="Excel VBA" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/visualbasic.svg" alt="Visual Basic" title="Visual Basic" width="40" height="40"/>
 </p>
 
 #### Currently Learning
 
 <p align="left">
-  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/cplusplus.svg" alt="C++" title="C++" width="40" height="40"/>
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/julia.svg" alt="Julia" title="Julia" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/r.svg" alt="R" title="R" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/sql.svg" alt="SQL" title="SQL" width="40" height="40"/>
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/cplusplus.svg" alt="C++" title="C++" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -33,15 +33,13 @@ Passionate about quantitative finance, behavioural economics, derivative valuati
 ### Tools & Environments
 
 <p align="left">
-  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/latex.svg" alt="LaTeX" title="LaTeX" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/jupyter.svg" alt="Jupyter" title="Jupyter Notebook" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/emacs.svg" alt="Emacs" title="Emacs" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/vscode.svg" alt="VSCode" title="Visual Studio Code" width="40" height="40"/>
   <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/rstudio.svg" alt="RStudio" title="RStudio" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/vscode.svg" alt="VSCode" title="Visual Studio Code" width="40" height="40"/>
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/raw/main/icons/languages/stata.svg" alt="Stata" title="Stata" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ioannis-vlachos/ioannis-vlachos/blob/main/icons/tools/latex.svg" alt="LaTeX" title="LaTeX" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
